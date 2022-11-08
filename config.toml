@@ -1,0 +1,4 @@
+baseURL = 'https://williamstrealy.com/'
+languageCode = 'en-us'
+title = 'William Strealy'
+theme = 'LoveIt'
